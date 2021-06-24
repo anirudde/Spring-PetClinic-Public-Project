@@ -17,7 +17,7 @@
   <properties>
 
     <!-- SonarQube properties -->       
-    <sonar.projectKey>anirudde_Spring-PetClinic-Public-Project</sonar.projectKey>
+    <sonar.projectKey>SPC</sonar.projectKey>
     <sonar.organization>anirudde</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     
